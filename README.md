@@ -15,7 +15,7 @@ Page has concise, descriptive title
 
 ## Deployed page must have this appearance
 
-![code refactor demo](assets\images\01-html-css-git-homework-demo.png)
+![code refactor demo](01-html-css-git-homework-demo.png)
 
 ## URL
 
